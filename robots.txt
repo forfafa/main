@@ -1,0 +1,32 @@
+
+# robots.txt for 포파파 (ForFaFa)
+# 모든 검색엔진 로봇의 접근을 허용합니다
+
+User-agent: *
+Allow: /
+
+# 특정 로봇별 설정
+User-agent: Googlebot
+Allow: /
+
+User-agent: NaverBot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+# 사이트맵 위치 (GitHub Pages URL로 수정 필요)
+Sitemap: https://forfafa.github.io/main/sitemap.xml
+
+# 크롤링 속도 조절 (선택사항)
+Crawl-delay: 1
+
+# 크롤링하지 않을 디렉토리가 있다면 추가
+# Disallow: /admin/
+# Disallow: /private/
