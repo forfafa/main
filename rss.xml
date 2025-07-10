@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>포파파 - 아빠를 위한 쉬운 육아 파트너</title>
+    <description>아빠 친구 찾기, 부자 스포츠 모임, 육아 정보, 키즈 시설 정보까지 한번에!</description>
+    <link>https://forfafa.github.io/main/</link>
+    <atom:link href="https://forfafa.github.io/main/rss.xml" rel="self" type="application/rss+xml"/>
+    <language>ko-KR</language>
+    <lastBuildDate>Tue, 07 Jan 2025 12:00:00 +0900</lastBuildDate>
+    <pubDate>Tue, 07 Jan 2025 12:00:00 +0900</pubDate>
+    <ttl>60</ttl>
+    <generator>포파파 RSS Generator</generator>
+    <webMaster>forfafa.official@gmail.com (포파파 팀)</webMaster>
+    <managingEditor>forfafa.official@gmail.com (포파파 팀)</managingEditor>
+    <category>육아</category>
+    <category>아빠커뮤니티</category>
+    <image>
+      <url>https://yugajjaggung.github.io/forfafa/forfafa_removebg_preview.png</url>
+      <title>포파파</title>
+      <link>https://forfafa.github.io/main/</link>
+      <width>144</width>
+      <height>144</height>
+    </image>
+
+    <!-- 사전예약 시작 공지 -->
+    <item>
+      <title>🎉 포파파 사전 예약 시작! 아빠를 위한 육아 파트너가 곧 출시됩니다</title>
+      <description><![CDATA[
+        드디어 아빠들을 위한 육아 플랫폼 포파파의 사전 예약이 시작되었습니다! 
+        아빠 친구 찾기, 부자 스포츠 모임, 육아 정보, 키즈 시설 정보까지 한번에 만나보세요.
+        
+        🎁 사전 예약자 추첨 이벤트:
+        - 아빠 육아 키트 (가이드북 + 육아템)
+        - 커피 기프트콘
+        - 아빠&아이 체험권
+        - 육아 전문 도서
+        
+        📅 출시 예정: 2025년 10월
+        🔗 사전 예약: https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/
+      ]]></description>
+      <link>https://forfafa.github.io/main/#launch</link>
+      <guid isPermaLink="false">forfafa-pre-order-2025-01-07</guid>
+      <pubDate>Tue, 07 Jan 2025 09:00:00 +0900</pubDate>
+      <category>사전예약</category>
+      <category>이벤트</category>
+      <author>forfafa.official@gmail.com (포파파 팀)</author>
+      <enclosure url="https://forfafa.github.io/main/forfafa_removebg_preview.png" length="0" type="image/png"/>
+    </item>
+
+    <!-- 서비스 소개 -->
+    <item>
+      <title>포파파가 제공하는 6가지 핵심 서비스 소개</title>
+      <description><![CDATA[
+        아빠들이 진짜 필요한 기능들로 구성된 포파파의 6가지 핵심 서비스를 소개합니다.
+        
+        👥 아빠 친구 찾기 - 같은 지역, 비슷한 나이의 자녀를 둔 아빠들과 연결
+        ⚽ 부자 스포츠 모임 - 아이와 함께 할 수 있는 체계적인 스포츠 프로그램
+        💬 아빠 커뮤니티 - 육아 고민부터 24시간 전문가 상담까지
+        🗺️ 키즈 시설 지도 - 실시간 리뷰와 평점으로 확인하는 우리 동네 키즈 시설
+        📋 육아 정책 정보 - 놓치기 쉬운 정부 혜택까지 한번에
+        🏘️ 지역 정보 공유 - 검증된 로컬 정보로 더 나은 선택
+      ]]></description>
+      <link>https://forfafa.github.io/main/#features</link>
+      <guid isPermaLink="false">forfafa-services-intro-2025-01-06</guid>
+      <pubDate>Mon, 06 Jan 2025 14:00:00 +0900</pubDate>
+      <category>서비스소개</category>
+      <category>기능설명</category>
+      <author>forfafa.official@gmail.com (포파파 팀)</author>
+    </item>
+
+    <!-- 전문가 추천 -->
+    <item>
+      <title>전문가가 인정한 아빠 육아 솔루션 - 포파파의 신뢰성</title>
+      <description><![CDATA[
+        정부 정책과 연계된 공신력 있는 서비스로 안전하고 신뢰할 수 있는 포파파!
+        
+        🏛️ 정부 지원 사업
+        👨‍⚕️ 소아과 전문의 자문
+        🎓 아동발달 전문가 참여
+        🔒 개인정보 보호 인증
+        
+        "아버지의 육아 참여는 아이의 정서 발달에 매우 중요합니다. 
+        포파파와 같은 전문적인 플랫폼이 한국 아버지들의 적극적인 육아 참여를 도울 것으로 기대됩니다."
+        - 김○○ 소아청소년과 전문의, 서울대학교병원
+      ]]></description>
+      <link>https://forfafa.github.io/main/#trust</link>
+      <guid isPermaLink="false">forfafa-expert-review-2025-01-05</guid>
+      <pubDate>Sun, 05 Jan 2025 16:00:00 +0900</pubDate>
+      <category>전문가추천</category>
+      <category>신뢰성</category>
+      <author>forfafa.official@gmail.com (포파파 팀)</author>
+    </item>
+
+  </channel>
+</rss>
