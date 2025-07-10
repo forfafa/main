@@ -3,8 +3,8 @@
   <channel>
     <title>포파파 - 아빠를 위한 쉬운 육아 파트너</title>
     <description>아빠 친구 찾기, 부자 스포츠 모임, 육아 정보, 키즈 시설 정보까지 한번에!</description>
-    <link>https://forfafa.github.io/main/</link>
-    <atom:link href="https://forfafa.github.io/main/rss.xml" rel="self" type="application/rss+xml"/>
+    <link>http://www.forfafa.com/</link>
+    <atom:link href="http://www.forfafa.com/rss.xml" rel="self" type="application/rss+xml"/>
     <language>ko-KR</language>
     <lastBuildDate>Tue, 07 Jan 2025 12:00:00 +0900</lastBuildDate>
     <pubDate>Tue, 07 Jan 2025 12:00:00 +0900</pubDate>
@@ -17,7 +17,7 @@
     <image>
       <url>https://yugajjaggung.github.io/forfafa/forfafa_removebg_preview.png</url>
       <title>포파파</title>
-      <link>https://forfafa.github.io/main/</link>
+      <link>http://www.forfafa.com/</link>
       <width>144</width>
       <height>144</height>
     </image>
@@ -36,9 +36,9 @@
         - 육아 전문 도서
         
         📅 출시 예정: 2025년 10월
-        🔗 사전 예약: https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/
+        🔗 사전 예약: http://www.forfafa.com/
       ]]></description>
-      <link>https://forfafa.github.io/main/#launch</link>
+      <link>http://www.forfafa.com/#launch</link>
       <guid isPermaLink="false">forfafa-pre-order-2025-01-07</guid>
       <pubDate>Tue, 07 Jan 2025 09:00:00 +0900</pubDate>
       <category>사전예약</category>
@@ -60,7 +60,7 @@
         📋 육아 정책 정보 - 놓치기 쉬운 정부 혜택까지 한번에
         🏘️ 지역 정보 공유 - 검증된 로컬 정보로 더 나은 선택
       ]]></description>
-      <link>https://forfafa.github.io/main/#features</link>
+      <link>http://www.forfafa.com/#features</link>
       <guid isPermaLink="false">forfafa-services-intro-2025-01-06</guid>
       <pubDate>Mon, 06 Jan 2025 14:00:00 +0900</pubDate>
       <category>서비스소개</category>
@@ -83,7 +83,7 @@
         포파파와 같은 전문적인 플랫폼이 한국 아버지들의 적극적인 육아 참여를 도울 것으로 기대됩니다."
         - 김○○ 소아청소년과 전문의, 서울대학교병원
       ]]></description>
-      <link>https://forfafa.github.io/main/#trust</link>
+      <link>http://www.forfafa.com/#trust</link>
       <guid isPermaLink="false">forfafa-expert-review-2025-01-05</guid>
       <pubDate>Sun, 05 Jan 2025 16:00:00 +0900</pubDate>
       <category>전문가추천</category>
