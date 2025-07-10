@@ -21,7 +21,7 @@ User-agent: Baiduspider
 Allow: /
 
 # 사이트맵 위치 (GitHub Pages URL로 수정 필요)
-Sitemap: https://forfafa.github.io/main/sitemap.xml
+Sitemap: http://www.forfafa.com/sitemap.xml
 
 # 크롤링 속도 조절 (선택사항)
 Crawl-delay: 1
