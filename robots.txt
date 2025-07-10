@@ -1,4 +1,3 @@
-
 # robots.txt for 포파파 (ForFaFa)
 # 모든 검색엔진 로봇의 접근을 허용합니다
 
