@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.example.forfafa.domain.user.mapper.UserRepository">
+
+    <!-- 사용자 조회 -->
+    <select id="findByUsername" parameterType="string" resultMap="userResultMap">
+        SELECT id, username, password, role
+        FROM users
+        WHERE username = #{username}
+    </select>
+
+    <!-- 사용자 등록 -->
+    <insert id="insert" parameterType="com.example.forfafa.domain.user.model.User">
+        INSERT INTO users (username, password, role)
+        VALUES (#{username}, #{password}, #{role, typeHandler=com.example.forfafa.global.mybatis.RoleTypeHandler})
+    </insert>
+
+    <!-- 생성자 기반 ResultMap 정의 -->
+    <resultMap id="userResultMap" type="com.example.forfafa.domain.user.model.User">
+        <constructor>
+            <idArg name="id" column="id" javaType="java.lang.Long" />
+            <arg name="username" column="username" javaType="java.lang.String" />
+            <arg name="password" column="password" javaType="java.lang.String" />
+            <arg name="role" column="role" javaType="com.example.forfafa.domain.user.model.Role"
+                 typeHandler="com.example.forfafa.global.mybatis.RoleTypeHandler" />
+        </constructor>
+    </resultMap>
+
+</mapper>
