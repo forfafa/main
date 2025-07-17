@@ -23,7 +23,7 @@ public class AuthController {
         return ResponseEntity.ok("USER 회원가입 완료");
     }
     @PostMapping("/admin")
-    public ResponseEntity<?> adminsignup(@RequestBody SignupRequestDto request) {
+    public ResponseEntity<?> admin(@RequestBody SignupRequestDto request) {
         userService.signup(request);
         return ResponseEntity.ok("ADMIN 회원가입 완료");
     }
