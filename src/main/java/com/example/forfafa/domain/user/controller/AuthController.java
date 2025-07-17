@@ -24,7 +24,7 @@ public class AuthController {
     }
     @PostMapping("/admin")
     public ResponseEntity<?> admin(@RequestBody SignupRequestDto request) {
-        userService.signup(request);
+        userService.admin(request);
         return ResponseEntity.ok("ADMIN 회원가입 완료");
     }
     @PostMapping("/login")
